@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **loukagamal49@gmail.com**
 -  <a href="https://drive.google.com/file/d/1IqarNr450wVPdCxR29eYI5FmTz7e-A9u/view?usp=sharing">resume link</a>
+
+
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include 
 Type Script
 , angular, , and Node.js.
